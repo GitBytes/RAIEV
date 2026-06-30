@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This repository has been archived and is no longer maintained.
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+> It should not be used in production systems.
+
 # RAIEv
 
 RAIEV, the **R**esponsible **AI** **Ev**aluation package contains protypes of AI-assisted evaluation workflows and interactive analytics for model evaluation and understanding. 
